@@ -1,2 +1,2 @@
 # hackscripts
-Simple bash scripts to training security tecniques.
+Simple bash scripts to training security techniques.
